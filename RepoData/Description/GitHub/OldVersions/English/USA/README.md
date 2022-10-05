@@ -1,1 +1,1 @@
-A repository for showcasing my knowledge of the OpenSCAD programming language, and continuing to learn the languageA repository for showcasing my knowledge of the OpenSCAD programming language, and continuing to learn the language
+A repository for showcasing my knowledge of the OpenSCAD programming language, and continuing to learn the language
